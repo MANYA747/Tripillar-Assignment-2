@@ -1,5 +1,4 @@
 package MODULE_5;
-
 import java.util.Scanner;
 public class arrayindex {
     static void fetchelement(int [] arr,int index)throws ArrayIndexOutOfBoundsException{
